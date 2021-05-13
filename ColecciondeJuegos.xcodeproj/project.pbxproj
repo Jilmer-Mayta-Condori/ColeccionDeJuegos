@@ -14,6 +14,7 @@
 		391FB65B264D814C003792EF /* ColecciondeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 391FB659264D814C003792EF /* ColecciondeJuegos.xcdatamodeld */; };
 		391FB65D264D815D003792EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 391FB65C264D815D003792EF /* Assets.xcassets */; };
 		391FB660264D815D003792EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391FB65E264D815D003792EF /* LaunchScreen.storyboard */; };
+		391FB668264D8951003792EF /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FB667264D8951003792EF /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		391FB65C264D815D003792EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		391FB65F264D815D003792EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		391FB661264D815D003792EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		391FB667264D8951003792EF /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		391FB64F264D814B003792EF /* ColecciondeJuegos */ = {
 			isa = PBXGroup;
 			children = (
+				391FB667264D8951003792EF /* JuegosViewController.swift */,
 				391FB650264D814B003792EF /* AppDelegate.swift */,
 				391FB652264D814B003792EF /* SceneDelegate.swift */,
 				391FB654264D814B003792EF /* ViewController.swift */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				391FB668264D8951003792EF /* JuegosViewController.swift in Sources */,
 				391FB655264D814B003792EF /* ViewController.swift in Sources */,
 				391FB651264D814B003792EF /* AppDelegate.swift in Sources */,
 				391FB653264D814B003792EF /* SceneDelegate.swift in Sources */,
